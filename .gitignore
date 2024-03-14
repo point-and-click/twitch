@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+secrets.yaml
+user_token.json
